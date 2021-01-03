@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/kiko/static/css/main.519d90bf.chunk.css",
-    "main.js": "/kiko/static/js/main.a3e71c8f.chunk.js",
-    "main.js.map": "/kiko/static/js/main.a3e71c8f.chunk.js.map",
-    "runtime-main.js": "/kiko/static/js/runtime-main.f27e5e86.js",
-    "runtime-main.js.map": "/kiko/static/js/runtime-main.f27e5e86.js.map",
-    "static/js/2.97af637e.chunk.js": "/kiko/static/js/2.97af637e.chunk.js",
-    "static/js/2.97af637e.chunk.js.map": "/kiko/static/js/2.97af637e.chunk.js.map",
-    "index.html": "/kiko/index.html",
-    "static/css/main.519d90bf.chunk.css.map": "/kiko/static/css/main.519d90bf.chunk.css.map",
-    "static/js/2.97af637e.chunk.js.LICENSE.txt": "/kiko/static/js/2.97af637e.chunk.js.LICENSE.txt",
-    "static/media/introduction.css": "/kiko/static/media/BackgroundIntro.5e3314d1.gif",
-    "static/media/PieceMonkey.1c6a03a0.png": "/kiko/static/media/PieceMonkey.1c6a03a0.png",
-    "static/media/SinglePackBlue.7b848df5.png": "/kiko/static/media/SinglePackBlue.7b848df5.png",
-    "static/media/SinglePackGreen.3b7be12d.png": "/kiko/static/media/SinglePackGreen.3b7be12d.png",
-    "static/media/SinglePackRed.adf3d2f2.png": "/kiko/static/media/SinglePackRed.adf3d2f2.png",
-    "static/media/SkateMultipackBoxWithCookies.e5c0a3f0.png": "/kiko/static/media/SkateMultipackBoxWithCookies.e5c0a3f0.png"
+    "main.css": "/static/css/main.9f086ba6.chunk.css",
+    "main.js": "/static/js/main.cfc82118.chunk.js",
+    "main.js.map": "/static/js/main.cfc82118.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1c86b4e9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1c86b4e9.js.map",
+    "static/js/2.97af637e.chunk.js": "/static/js/2.97af637e.chunk.js",
+    "static/js/2.97af637e.chunk.js.map": "/static/js/2.97af637e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9f086ba6.chunk.css.map": "/static/css/main.9f086ba6.chunk.css.map",
+    "static/js/2.97af637e.chunk.js.LICENSE.txt": "/static/js/2.97af637e.chunk.js.LICENSE.txt",
+    "static/media/introduction.css": "/static/media/BackgroundIntro.5e3314d1.gif",
+    "static/media/PieceMonkey.1c6a03a0.png": "/static/media/PieceMonkey.1c6a03a0.png",
+    "static/media/SinglePackBlue.7b848df5.png": "/static/media/SinglePackBlue.7b848df5.png",
+    "static/media/SinglePackGreen.3b7be12d.png": "/static/media/SinglePackGreen.3b7be12d.png",
+    "static/media/SinglePackRed.adf3d2f2.png": "/static/media/SinglePackRed.adf3d2f2.png",
+    "static/media/SkateMultipackBoxWithCookies.e5c0a3f0.png": "/static/media/SkateMultipackBoxWithCookies.e5c0a3f0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f27e5e86.js",
+    "static/js/runtime-main.1c86b4e9.js",
     "static/js/2.97af637e.chunk.js",
-    "static/css/main.519d90bf.chunk.css",
-    "static/js/main.a3e71c8f.chunk.js"
+    "static/css/main.9f086ba6.chunk.css",
+    "static/js/main.cfc82118.chunk.js"
   ]
 }
