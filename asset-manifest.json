@@ -1,26 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.51f50bae.chunk.css",
-    "main.js": "/static/js/main.0f72371e.chunk.js",
-    "main.js.map": "/static/js/main.0f72371e.chunk.js.map",
+    "main.css": "/static/css/main.b133fcd3.chunk.css",
+    "main.js": "/static/js/main.80d9080f.chunk.js",
+    "main.js.map": "/static/js/main.80d9080f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1c86b4e9.js",
     "runtime-main.js.map": "/static/js/runtime-main.1c86b4e9.js.map",
-    "static/js/2.7a5474c2.chunk.js": "/static/js/2.7a5474c2.chunk.js",
-    "static/js/2.7a5474c2.chunk.js.map": "/static/js/2.7a5474c2.chunk.js.map",
+    "static/js/2.d637abb0.chunk.js": "/static/js/2.d637abb0.chunk.js",
+    "static/js/2.d637abb0.chunk.js.map": "/static/js/2.d637abb0.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.51f50bae.chunk.css.map": "/static/css/main.51f50bae.chunk.css.map",
-    "static/js/2.7a5474c2.chunk.js.LICENSE.txt": "/static/js/2.7a5474c2.chunk.js.LICENSE.txt",
+    "static/css/main.b133fcd3.chunk.css.map": "/static/css/main.b133fcd3.chunk.css.map",
+    "static/js/2.d637abb0.chunk.js.LICENSE.txt": "/static/js/2.d637abb0.chunk.js.LICENSE.txt",
     "static/media/introduction.css": "/static/media/BackgroundIntro.5e3314d1.gif",
+    "static/media/CookieLionPack.799e3371.png": "/static/media/CookieLionPack.799e3371.png",
+    "static/media/CookieSheepPack.9a11fd6c.png": "/static/media/CookieSheepPack.9a11fd6c.png",
+    "static/media/CookieTriceratopsPack.a88e09a4.png": "/static/media/CookieTriceratopsPack.a88e09a4.png",
+    "static/media/KikoLogoWithAnimals.4065b5a9.png": "/static/media/KikoLogoWithAnimals.4065b5a9.png",
+    "static/media/MultiPackBox.def9e94d.png": "/static/media/MultiPackBox.def9e94d.png",
     "static/media/PieceMonkey.1c6a03a0.png": "/static/media/PieceMonkey.1c6a03a0.png",
     "static/media/SinglePackBlue.7b848df5.png": "/static/media/SinglePackBlue.7b848df5.png",
     "static/media/SinglePackGreen.3b7be12d.png": "/static/media/SinglePackGreen.3b7be12d.png",
     "static/media/SinglePackRed.17db594b.png": "/static/media/SinglePackRed.17db594b.png",
-    "static/media/SkateMultipackBoxWithCookies.e5c0a3f0.png": "/static/media/SkateMultipackBoxWithCookies.e5c0a3f0.png"
+    "static/media/SkateMultipackBoxWithCookies.e5c0a3f0.png": "/static/media/SkateMultipackBoxWithCookies.e5c0a3f0.png",
+    "static/media/ThreeCookieAnimals.66cc077b.png": "/static/media/ThreeCookieAnimals.66cc077b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1c86b4e9.js",
-    "static/js/2.7a5474c2.chunk.js",
-    "static/css/main.51f50bae.chunk.css",
-    "static/js/main.0f72371e.chunk.js"
+    "static/js/2.d637abb0.chunk.js",
+    "static/css/main.b133fcd3.chunk.css",
+    "static/js/main.80d9080f.chunk.js"
   ]
 }
